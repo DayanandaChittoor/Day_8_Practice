@@ -1,0 +1,13 @@
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\Line_Comparision_Oops.exe
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\Line_Comparision_Oops.deps.json
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\Line_Comparision_Oops.runtimeconfig.json
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\Line_Comparision_Oops.runtimeconfig.dev.json
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\Line_Comparision_Oops.dll
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\bin\Debug\netcoreapp3.1\Line_Comparision_Oops.pdb
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\Line_Comparision_Oops.csproj.AssemblyReference.cache
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\Line_Comparision_Oops.AssemblyInfoInputs.cache
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\Line_Comparision_Oops.AssemblyInfo.cs
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\Line_Comparision_Oops.csproj.CoreCompileInputs.cache
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\Line_Comparision_Oops.dll
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\Line_Comparision_Oops.pdb
+C:\Users\dayas\programcodes\Day_8_Practice\LineComparision\LineComparision\obj\Debug\netcoreapp3.1\Line_Comparision_Oops.genruntimeconfig.cache
